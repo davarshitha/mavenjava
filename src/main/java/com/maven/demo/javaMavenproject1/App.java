@@ -5,6 +5,6 @@ package com.maven.demo.javaMavenproject1;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Jenkins pipeline script");
     }
 }
